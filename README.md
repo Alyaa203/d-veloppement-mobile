@@ -103,18 +103,6 @@ npm test              # Vitest
 
 ---
 
-## Screenshots
-
-> _Screenshots coming soon._
-
-| Login | Deck builder | Lobby | Battle |
-| :---: | :---: | :---: | :---: |
-| ![Login](docs/screenshots/login.png) | ![Deck builder](docs/screenshots/deck.png) | ![Lobby](docs/screenshots/lobby.png) | ![Battle](docs/screenshots/battle.png) |
-
-<!-- Add images to docs/screenshots/ using the file names above. -->
-
----
-
 ## User testing
 
 The game was tested with 6 players on their own phones, using the think-aloud method and a short interview after each session. Main changes made after testing:
